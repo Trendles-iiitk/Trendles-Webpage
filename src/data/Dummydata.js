@@ -1,0 +1,44 @@
+import Asset1 from '../../assets/png-for-dark-mode/Trendles-dark-icon.png'
+
+export const  IconInformation = [
+    {
+        id:1,
+        title:'Home',
+        image:Asset1
+    },
+    {
+        id:2,
+        title:'Blog',
+        image:Asset1
+    },
+    {
+        id:3,
+        title:'Events',
+        image:Asset1
+    },
+    {
+        id:4,
+        title:'Magazine',
+        image:Asset1
+    },
+    {
+        id:5,
+        title:'Photo',
+        image:Asset1
+    },
+    {
+        id:6,
+        title:'Video',
+        image:Asset1
+    },
+    {
+        id:7,
+        title:'Literary',
+        image:Asset1
+    },
+    {
+        id:8,
+        title:'Design',
+        image:Asset1
+    },
+]

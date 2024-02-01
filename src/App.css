@@ -1,0 +1,16 @@
+.App {
+    background: linear-gradient(203.92deg, #000515 0%, #101F31 18.68%, #000929 32.22%, #000515 79.09%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    flex-grow: 1;
+  }
+
+@media (min-height: 100vh) {
+    .App {
+        min-height: 100vh; 
+    }
+}
