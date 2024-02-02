@@ -7,9 +7,7 @@ module.exports = {
       },
       fontFamily: {
         'Poppins':['Poppins'],
-        'Roboto': ['Roboto Condensed'],
-        'Bebas': ['Bebas Neue'],
-        'Raleway': ['Raleway'],
+        'Rubik':['Rubik','sans-serif']
       },
       rotate: {
         '24': '24deg',

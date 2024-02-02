@@ -1,44 +1,25 @@
-import Asset1 from '../../assets/png-for-dark-mode/Trendles-dark-icon.png'
+import I11  from '../assets/TrendlesImages/Image1/20200103_150421-02 - KOVVADA HARSHA -2019BCSIIITK-min.jpeg'
+import I12  from '../assets/TrendlesImages/Image1/IMG_20190815_130623-01 - ROHITH -2019BCSIIITK-min.jpeg'
+import I13  from '../assets/TrendlesImages/Image1/IMG_20191027_180322 - Anoop Raju -IIITK-min.jpg'
+import I14  from '../assets/TrendlesImages/Image1/IMG_20210812_182130 (1) - IPL lover 2021-min.jpg'
+import I21  from '../assets/TrendlesImages/Image2/20220426_185216-01 - KRISHNA SASHANK ALLIMPALLI -IIITK-min.jpeg'
+import I22  from '../assets/TrendlesImages/Image2/20220429211457__MG_5957-01 - KRISHNA SASHANK ALLIMPALLI -IIITK-min.jpeg'
+import I23  from '../assets/TrendlesImages/Image2/IMG_20220523_152759 - YASHWANTRAO SHESHKAR -IIITK-min.jpg'
+import I24  from '../assets/TrendlesImages/Image2/IMG_20220613_124349 - M SAI MAHIDHAR -IIITK-min.jpg'
+import I31  from '../assets/TrendlesImages/Image3/2016BCS0002-instagram-abhieshekumar - ABHISHEK KUMAR-min.jpeg'
+import I32  from '../assets/TrendlesImages/Image3/IIITK New Academic Block (Like anime world) - SANJAY MEENA -IIITK-min.jpg'
+import I33  from '../assets/TrendlesImages/Image3/IMG_6945~2-min.jpg'
+import I34  from '../assets/TrendlesImages/Image3/2016BCS0002-instagram-abhieshekumar - ABHISHEK KUMAR-min.jpeg'
 
-export const  IconInformation = [
-    {
-        id:1,
-        title:'Home',
-        image:Asset1
-    },
-    {
-        id:2,
-        title:'Blog',
-        image:Asset1
-    },
-    {
-        id:3,
-        title:'Events',
-        image:Asset1
-    },
-    {
-        id:4,
-        title:'Magazine',
-        image:Asset1
-    },
-    {
-        id:5,
-        title:'Photo',
-        image:Asset1
-    },
-    {
-        id:6,
-        title:'Video',
-        image:Asset1
-    },
-    {
-        id:7,
-        title:'Literary',
-        image:Asset1
-    },
-    {
-        id:8,
-        title:'Design',
-        image:Asset1
-    },
+
+export const slide1 = [
+    I11,I12,I13,I14
+]
+
+export const slide2 = [
+    I21,I22,I23,I24
+]
+
+export const slide3 = [
+    I31,I32,I33,I34
 ]
